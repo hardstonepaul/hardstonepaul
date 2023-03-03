@@ -1,3 +1,9 @@
+# Hi there. 👤 I'm Paul Fabian Suarez Guerrero
+## 🌐 Web Developer since 2004, eCommerce develop since 2014, UI/UX designer, Graphic Designer since 2002. 👨‍🎨️
+### 🧿 I like that my work fit perfect to specific needs of each project, I'm obsessive fot all pixels be on the right place 👾. I like that my job have plus value, I like to give a little more thant expectect. Now I'm working as web designer in BotonPromo, Web Developer in Bombatex, Web Designer at Bomplast. 👨‍💻️ Now I'm studying hard to be a FrontEnd and Fullstack developer  💻📈
+
+---
+---
 # 👤 Soy Paul Fabian Suárez Guerrero
 ## 🌐🖋️ Web Designer, UI/UX designer, Graphic Designer 👨‍🎨️
 ### 👨‍💻️ Ahora estoy estudiando duro para poder sero todo un desarrollador Fullstack 💻📈
