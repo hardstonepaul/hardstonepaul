@@ -9,10 +9,10 @@
  - **Busumer & Bonitta shop**: Advisory in CSS implement, DevOps develop to increase the page speed and reduce the latency in page loads.
 ---
 ## 🦸‍♂️ Soft Skills
-- Amabilidad
-- Buen compañero de equipo
-- Entusiasta
-- Humilde pero con ímpetu
+- Kindness
+- Good Team Coworker
+- Enthusiastic
+- Humble but with impetus
 ---
 ---
 ###### Spanish version
@@ -27,10 +27,10 @@
  - **Busumer & Bonitta shop**: Asesoría en implementación de CSS, desarrollo DevOps para aumentar la velocidad de la página y reducir la latencia en las cargas de la página.
 ---
 ## 🦸‍♂️ Soft Skills
-- Kindness
-- Good Team Coworker
-- Enthusiastic
-- Humble but with impetus
+- Amabilidad
+- Buen compañero de equipo
+- Entusiasta
+- Humilde pero con ímpetu
 ---
 ---
 
