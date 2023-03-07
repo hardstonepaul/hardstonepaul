@@ -1,3 +1,4 @@
+![hardstone](src/baner-git.png)
 # Hi there. 👤 I'm Paul Fabian Suarez Guerrero
 ## 🌐 Web Developer since 2004, eCommerce develop since 2014, UI/UX designer, Graphic Designer since 2002. 👨‍🎨️
 ### 🧿 I like that my work fit perfect to specific needs of each project, I'm obsessive fot all pixels be on the right place on each device👾. I like that my job have plus value, I like to give a little more than expectect. Now I'm working as web designer in BotonPromo, Web Developer in Bombatex, Web Designer at Bomplast. 👨‍💻️ Now I'm studying hard to be a FrontEnd and Fullstack developer  💻📈
