@@ -1,11 +1,11 @@
 ![hardstone](src/baner-git.png)
 # Hi there. 👤 I'm Paul Fabian Suarez Guerrero
 ## 🌐 Web Developer since 2004, eCommerce develop since 2014, UI/UX designer, Graphic Designer since 2002. 👨‍🎨️
-### 🧿 I like that my work fit perfect to specific needs of each project, I'm obsessive fot all pixels be on the right place on each device👾. I like that my job have plus value, I like to give a little more than expectect. Now I'm working as web designer in BotonPromo, Web Developer in Bombatex, Web Designer at Bomplast. 👨‍💻️ Now I'm studying hard to be a FrontEnd and Fullstack developer  💻📈
+### 🧿 I like that my work fit perfect to specific needs of each project, I'm obsessive for put every pixel on the right place, on each device👾. I like that my job have a plus value, I like to give a little more than expectect. Now I'm working as web designer in BotonPromo, Web Developer in Bombatex, Web Designer at Bomplast. 👨‍💻️ Now I'm studying hard to be a FrontEnd and Fullstack developer  💻📈
 ---
 ## 💪Experience
 - **BotonPromo**: Modernizate a static site to a eCommerce in Prestashop using Sass, html, css and Smarty, Create custom templates for this eCommerce using Webpack. Maintain runnig fixing some bugs, Administrate the server in cpanel and WHM, Create mail campaings for at least 50K customers. Create UI for corporate apps like invetory other adminstrative software in Html ans CSS.
-- **Bombatex**: Creation and develop of the eCommerce solution to sell ballons and party products, web desing and develop in CSS and Smarty. Administrate the server in cPanel. Create UI for corporate apps like invetory other adminstrative software in Html ans CSS.
+- **Bombatex**: Creation and develop of the eCommerce solution to sell ballons and party products, web desing and develop in CSS and Smarty in Prestashop and now make a migration to Shpify. Administrate the server in cPanel. Create UI for corporate apps like invetory other adminstrative software in Html ans CSS.
 - **Sindhep**: Deploy an Blog in wordpress and migrate to the cloud AWS, Web Desing in CSS and HTML.
  - **Busumer & Bonitta shop**: Advisory in CSS implement, DevOps develop to increase the page speed and reduce the latency in page loads.
 ---
