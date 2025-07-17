@@ -1,5 +1,6 @@
-![banner-youtube](https://github.com/user-attachments/assets/948241fa-1017-4baa-97c3-1b19dcda6ab6)
-# Paul Fabian Suárez Guerrero  
+<img width="1280" height="720" alt="banner-github copy" src="https://github.com/user-attachments/assets/343f71f5-de5c-4ba3-9cf0-9bd3c9cef3f3" />
+
+
 ### 🎨 Design Engineer | 🖥 Front-End Artist | 🛒 eCommerce Specialist  
 
 📍 **Bogotá, Colombia**  
