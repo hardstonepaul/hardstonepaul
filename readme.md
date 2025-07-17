@@ -1,6 +1,5 @@
 <img width="1280" height="720" alt="banner-github copy" src="https://github.com/user-attachments/assets/343f71f5-de5c-4ba3-9cf0-9bd3c9cef3f3" />
 
-
 ### 🎨 Design Engineer | 🖥 Front-End Artist | 🛒 eCommerce Specialist  
 
 📍 **Bogotá, Colombia**  
@@ -9,11 +8,18 @@
 
 ---
 
-## 🚀 **About Me**  
-Bridging **user delight** with **business success** since 2003. Passionate about crafting pixel-perfect interfaces, transforming designs into clean code, and scaling eCommerce platforms to 100K+ visits/month.  
+## 🎨 UI/UX & Front-End Engineering Journey  
+
+**20+ years** transforming pixels into functional experiences—from battling IE6 quirks to mastering modern design systems.  
+
+### 🔧 **Core Expertise**  
+- **Design-to-Code Precision**: Figma/Penpot → **Tailwind/Bootstrap** handoff  
+- **eCommerce Scaling**: Grew [esferos.com](https://esferos.com) to **103K+ visits/month** via PrestaShop/AWS  
+- **Data-Driven UI**: Optimized **1.3M+ emails** (Mailchimp/Brevo) with design-thinking  
+- **Atomic Design**: Built systems unintentionally via icons/typography long before it trended  
 
 **Core Philosophy**:  
-> *"Atomic design principles meet real-world usability – because great UI is both beautiful and functional."*  
+> *"__I bridge user delight with business success__ - Crafting experiences that satisfy customers and drive measurable results."* 
 
 ---
 
@@ -71,9 +77,10 @@ Bridging **user delight** with **business success** since 2003. Passionate about
 
 ## 🎨 **Design Philosophy**  
 ```mermaid
-graph LR
-  A[User Research] --> B[Wireframes]
-  B --> C[Prototype]
-  C --> D[Test]
-  D --> A
-  C --> E[Clean Code]
+graph TD
+  A[🔍 User Research] -->|Empathize| B[✏️ Low-Fidelity Wireframes]
+  B -->|Iterate| C[🎨 High-Fidelity Prototype]
+  C -->|Test| D[📊 Usability Feedback]
+  D -->|Refine| A
+  C -->|Handoff| E[</> Clean Code]
+  E -->|Deploy| F[🚀 Live Product]
