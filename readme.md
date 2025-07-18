@@ -1,4 +1,4 @@
-<img width="1280" height="720" alt="banner-github copy" src="https://github.com/user-attachments/assets/343f71f5-de5c-4ba3-9cf0-9bd3c9cef3f3" />
+<img width="846" height="476" alt="HardStone" src="https://github.com/user-attachments/assets/3cb84722-9fac-4c1c-81af-bc2db4fd96ca" />
 
 ### 🎨 Design Engineer | 🖥 Front-End Artist | 🛒 eCommerce Specialist  
 
@@ -13,7 +13,7 @@
 **20+ years** transforming pixels into functional experiences—from battling IE6 quirks to mastering modern design systems.  
 
 ### 🔧 **Core Expertise**  
-- **Design-to-Code Precision**: Figma/Penpot → **Tailwind/Bootstrap** handoff  
+- **Design-to-Code Precision**: Figma/Penpot → **HTML/SASS** handoff  
 - **eCommerce Scaling**: Grew [esferos.com](https://esferos.com) to **103K+ visits/month** via PrestaShop/AWS  
 - **Data-Driven UI**: Optimized **1.3M+ emails** (Mailchimp/Brevo) with design-thinking  
 - **Atomic Design**: Built systems unintentionally via icons/typography long before it trended  
